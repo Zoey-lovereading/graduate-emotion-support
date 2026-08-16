@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+graduate-emotion-continuity-profile.json
+*.continuity-profile.json
+.DS_Store
+Thumbs.db

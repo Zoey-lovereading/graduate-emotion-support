@@ -1,0 +1,7 @@
+interface:
+  display_name: "研究生情绪支持"
+  short_description: "延续已确认信息，支持硕博生情绪与温和科研恢复"
+  default_prompt: "Use $graduate-emotion-management to understand what happened and how I feel, carry forward confirmed identity, issue, preference, and method-feedback context, and only then help me choose support or a next step."
+
+policy:
+  allow_implicit_invocation: true
